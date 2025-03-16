@@ -70,7 +70,7 @@ Want to improve this chatbot? Contributions are always welcome! Feel free to **f
 
 ## 📞 Contact
 💡 Have questions? Reach out:  
-📧 **Email:** [your-email@example.com]  
+📧 **Email:** [abwolfofficial@gmail.com]  
 🔗 **GitHub:** [https://github.com/AmizhthanX](https://github.com/AmizhthanX)  
 
 ---
